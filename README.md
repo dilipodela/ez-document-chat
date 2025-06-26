@@ -1,1 +1,4 @@
-# ez-document-chat
+streamlit
+transformers
+torch
+pdfminer.six
